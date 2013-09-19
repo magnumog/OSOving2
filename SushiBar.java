@@ -24,6 +24,12 @@ public class SushiBar {
         
 	public static void main(String[] args) {
 		log= new File(path + "log.txt"); 
+		Clock clock = new Clock(SushiBar.duration);
+		ServingArea servingArea = new ServingArea();
+		Door door = new Door();
+		
+		
+		
 		
 		//To be completed
 
