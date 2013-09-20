@@ -22,6 +22,7 @@ public class Costumer implements Runnable {
 	@Override
 	public void run() {
 		
+		
 	}
 	
 }
